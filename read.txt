@@ -1,0 +1,3 @@
+install geckodriver first
+you will also require a api key at https://beta.openai.com
+install requirements with pip install -r requirements.txt

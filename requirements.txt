@@ -1,0 +1,2 @@
+openai==0.25.0
+selenium==4.7.2
